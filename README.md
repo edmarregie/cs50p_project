@@ -55,6 +55,7 @@ The script will output the following results:
 - Best Net Points: This is the net trading points gained with the best parameter combination.
 
 The script will also create a chart that visually represents the points earned for different parameter combinations.
+Spoiler Alert: Doji does not result in increased earnings according to the program.
 
 ## Methodology
 
